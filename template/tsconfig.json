@@ -1,16 +1,13 @@
-
 {
   "compilerOptions": {
     "esModuleInterop": true,
     "jsx": "react-native",
     "lib": ["ESNext"],
-    "module": "commonjs",
+    "module": "CommonJS",
     "noEmit": true,
     "skipLibCheck": true,
     "strict": true,
     "target": "ESNext",
   },
-  "include": [
-    "src",
-  ]
+  "include": ["src"]
 }

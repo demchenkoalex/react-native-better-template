@@ -2,6 +2,8 @@
 
 Base React Native template with TypeScript, Swift and Kotlin support.
 
+Are you looking for the library template? Check [react-native-module-template](https://github.com/demchenkoalex/react-native-module-template).
+
 ## Alternatives
 
 [react-native-template-typescript](https://github.com/react-native-community/react-native-template-typescript)

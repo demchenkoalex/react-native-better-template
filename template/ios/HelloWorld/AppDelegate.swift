@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  HelloWorld
-//
-//  Created by Alex Demchenko on 21/03/2021.
-//
-
 import UIKit
 #if DEBUG
 import FlipperKit
